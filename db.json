@@ -3,6 +3,7 @@
     {
       "name": "Dr. Emily White",
       "email": "emily.white@example.com",
+      "pass": "pass1",
       "title": "Introduction to AI Seminar",
       "type": "Workshop",
       "date": "October 30, 2025",
@@ -19,6 +20,7 @@
     {
       "name": "Sarah Lee",
       "email": "sarah.lee@example.com",
+      "pass": "pass2",
       "title": "Spring Mixer Social Event",
       "type": "Workshop",
       "date": "December 11, 2025",
@@ -36,6 +38,7 @@
       "name": "Prof. David Green",
       "email": "david.green@example.com",
       "title": "Academic Writing Workshop",
+      "pass": "pass3",
       "type": "Academic",
       "date": "November 17, 2025",
       "startTime": "11:00 AM",
@@ -51,6 +54,7 @@
     {
       "name": "Maria Garcia",
       "email": "maria.garcia@example.com",
+      "pass": "pass4",
       "title": "Entrepreneurship Panel Discussion",
       "type": "Academic",
       "date": "June 20, 2025",
@@ -67,6 +71,7 @@
     {
       "name": "John Smith",
       "email": "john.smith@example.com",
+      "pass": "pass5",
       "title": "Coding Fundamentals Workshop",
       "type": "Workshop",
       "date": "June 26, 2025",
@@ -83,6 +88,7 @@
     {
       "name": "Dr. Sarah Adams",
       "email": "sarah.adams@example.com",
+      "pass": "pass6",
       "title": "Mental Wellness Seminar",
       "type": "Seminar",
       "date": "June 20, 2025",
@@ -99,6 +105,7 @@
     {
       "name": "Michael Brown",
       "email": "michael.brown@example.com",
+      "pass": "pass7",
       "title": "Game Night Social",
       "type": "Sports",
       "date": "June 26, 2025",
@@ -115,6 +122,7 @@
     {
       "name": "Dr. Susan Davis",
       "email": "susan.davis@example.com",
+      "pass": "pass8",
       "title": "Data Science Fundamentals",
       "type": "Academic",
       "date": "September 11, 2025",
@@ -131,6 +139,7 @@
     {
       "name": "Prof. Robert King",
       "email": "robert.king@example.com",
+      "pass": "pass9",
       "title": "Public Speaking Workshop",
       "type": "Workshop",
       "date": "July 4, 2025",
@@ -147,6 +156,7 @@
     {
       "name": "Dr. Nancy Miller",
       "email": "nancy.miller@example.com",
+      "pass": "pass10",
       "title": "Research Methods Seminar",
       "type": "Seminar",
       "date": "July 18, 2025",
@@ -163,6 +173,7 @@
     {
       "name": "Chris Taylor",
       "email": "chris.taylor@example.com",
+      "pass": "pass11",
       "title": "Talent Show Auditions",
       "type": "Social",
       "date": "December 9, 2025",
@@ -179,6 +190,7 @@
     {
       "name": "Prof. Laura Chen",
       "email": "laura.chen@example.com",
+      "pass": "pass12",
       "title": "Climate Change & Sustainability",
       "type": "Academic",
       "date": "September 10, 2025",
@@ -195,6 +207,7 @@
     {
       "name": "Daniel Wilson",
       "email": "daniel.wilson@example.com",
+      "pass": "pass13",
       "title": "Financial Literacy Workshop",
       "type": "Workshop",
       "date": "July 7, 2027",
@@ -211,7 +224,7 @@
     {
       "name": "Jessica Moore",
       "email": "jessica.moore@example.com",
-      "pass": "",
+      "pass": "pass14",
       "title": "Alumni Networking Mixer",
       "type": "Social",
       "date": "November 13, 2025",
@@ -230,7 +243,7 @@
       "name": "Muhammad Atif Arshad",
       "email": "atifarshad721@gmail.com",
       "title": "Event Title",
-      "password": "pass15",
+      "pass": "pass15",
       "type": "Seminar",
       "date": "July 10, 2025",
       "startTime": "02:00 AM",
@@ -246,7 +259,7 @@
       "id": "2c65",
       "name": "Bilal Majeed",
       "email": "bilal@company.com",
-      "password": "pass16",
+      "pass": "pass16",
       "title": "Bilal bhai ka event",
       "type": "Social",
       "date": "June 24, 2025",
@@ -263,7 +276,7 @@
       "id": "79dc",
       "name": "SOHAIL AHAMD ",
       "email": "ahamd@gmail.com",
-      "pass": "",
+      "pass": "pass17",
       "title": "Half Graduation",
       "type": "Social",
       "date": "June 19, 2025",
